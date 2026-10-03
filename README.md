@@ -4,6 +4,8 @@
 
 A simple ERC-20 toy token for experiments and transfers between friends. No promised financial value or fiat peg. Deploy on your chosen compatible EVM network; standard wallets can receive and send SLN without a custom frontend.
 
+This repository is preserved as an archival record of the deployed Solynea contract for reference and review. The contract has no proxy or upgrade mechanism: its deployed code cannot be changed, and revised rules require a new deployment. Repository archival does not affect the deployed token or its existing owner and holder functions. Deployment tools and dependencies are no longer maintained.
+
 ## Contract
 
 Built with OpenZeppelin Contracts **5.7.0**, Solidity **0.8.37**, and Foundry (tested with **1.8.4**).
