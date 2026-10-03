@@ -1,0 +1,22 @@
+# Local dependencies are reproducible from the pinned installation commands.
+/lib/
+/out/
+/cache/
+/broadcast/
+/tools/
+
+# Secrets, RPC credentials, wallets and local deployment configuration.
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.keystore
+keystore/
+keystores/
+
+# Editor / OS files.
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
