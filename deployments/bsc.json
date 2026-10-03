@@ -1,0 +1,41 @@
+{
+  "network": "bsc",
+  "chainId": 56,
+  "contractAddress": "0x0e89F70034Ec8CA8Be9567e9f98539A9A2e787f6",
+  "deploymentTransactionHash": "0xc96ea6ef7f65c0b19af36d361557252f4c47c3a103941e6e4af0852735110c08",
+  "deploymentBlock": 125524935,
+  "deployedAtUtc": "2026-10-03T17:32:45Z",
+  "initialOwner": "0x0eaE864Ad80EAdc5eE7f6BDe050a586D0a04afB3",
+  "constructor": {
+    "tokenName": "Solynea",
+    "tokenSymbol": "SLN",
+    "tokenDecimals": 18,
+    "initialSupplyRaw": "1000000000000000000"
+  },
+  "compiler": "0.8.37+commit.f401782d",
+  "evmVersion": "cancun",
+  "optimizerRuns": 200,
+  "openzeppelinVersion": "5.7.0",
+  "forgeStdVersion": "1.17.0",
+  "sourceCommit": "ba1d9a4a0c693992a9ce7a554554387bdbbaa54a",
+  "sourceStatus": "Clean source working tree when recorded; compiler source hashes captured from the local artifact.",
+  "sourceHashesKeccak256": {
+    "lib/openzeppelin-contracts/contracts/access/Ownable.sol": "0xff6d0bb2e285473e5311d9d3caacb525ae3538a80758c10649a4d61029b017bb",
+    "lib/openzeppelin-contracts/contracts/access/Ownable2Step.sol": "0xdcad8898fda432696597752e8ec361b87d85c82cb258115427af006dacf7128c",
+    "lib/openzeppelin-contracts/contracts/interfaces/draft-IERC6093.sol": "0x1b88b3fb3d85ba5496d7d5f396f83ee1fddcdd6762059ff65992655b67920998",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/ERC20.sol": "0x669464167428061ee0f8618b73b3ee90aff8405683e7ddde8cd77dadaa1afe29",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol": "0x74ed01eb66b923d0d0cfe3be84604ac04b76482a55f9dd655e1ef4d367f95bc2",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/extensions/ERC20Burnable.sol": "0xb378169b7c0be0628064429bd7fb41f5d16983ee9af1b3cf82468e79af3fdc30",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/extensions/ERC20Pausable.sol": "0x756aee61d83960d324973de3a64920a02b480efe662b611fb05ea506d844aa55",
+    "lib/openzeppelin-contracts/contracts/token/ERC20/extensions/IERC20Metadata.sol": "0xd6fa4088198f04eef10c5bce8a2f4d60554b7ec4b987f684393c01bf79b94d9f",
+    "lib/openzeppelin-contracts/contracts/utils/Context.sol": "0x493033a8d1b176a037b2cc6a04dad01a5c157722049bbecf632ca876224dd4b2",
+    "lib/openzeppelin-contracts/contracts/utils/Pausable.sol": "0xdb484371dfbb848cb6f5d70464e9ac9b2900e4164ead76bbce4fef0b44bcc68f",
+    "src/Solynea.sol": "0x43f4381705c3170bda11dc83c69acd3f21c0d1080b0981087de3b11d16760000"
+  },
+  "explorerUrl": "https://bscscan.com/address/0x0e89F70034Ec8CA8Be9567e9f98539A9A2e787f6",
+  "transactionUrl": "https://bscscan.com/tx/0xc96ea6ef7f65c0b19af36d361557252f4c47c3a103941e6e4af0852735110c08",
+  "gasUsed": 833760,
+  "effectiveGasPriceWei": "50000000",
+  "verified": true,
+  "feeBNB": "0.000041688"
+}
