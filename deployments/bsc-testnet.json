@@ -1,0 +1,41 @@
+﻿{
+    "network":  "bsc-testnet",
+    "chainId":  97,
+    "contractAddress":  "0x9f3318B0b0A6e228d0B72B27d6a83BE6CeC4b499",
+    "deploymentTransactionHash":  "0x38099399468a8b80b0d4846c00a72279d54d498009ec40351854e5e4bbae0da8",
+    "deploymentBlock":  134639509,
+    "deployedAtUtc":  null,
+    "initialOwner":  "0x1E11Ce138FD67BBFBc21Dfb1d9cFF99574736F60",
+    "constructor":  {
+                        "tokenName":  "Solynea",
+                        "tokenSymbol":  "SLN",
+                        "tokenDecimals":  18,
+                        "initialSupplyRaw":  "0"
+                    },
+    "compiler":  "0.8.37+commit.f401782d",
+    "evmVersion":  "cancun",
+    "optimizerRuns":  200,
+    "openzeppelinVersion":  "5.7.0",
+    "forgeStdVersion":  "1.17.0",
+    "sourceCommit":  null,
+    "sourceStatus":  "Project source was uncommitted at deployment; compiler source hashes are recorded below.",
+    "sourceHashesKeccak256":  {
+                                  "lib/openzeppelin-contracts/contracts/access/Ownable.sol":  "0xff6d0bb2e285473e5311d9d3caacb525ae3538a80758c10649a4d61029b017bb",
+                                  "lib/openzeppelin-contracts/contracts/access/Ownable2Step.sol":  "0xdcad8898fda432696597752e8ec361b87d85c82cb258115427af006dacf7128c",
+                                  "lib/openzeppelin-contracts/contracts/interfaces/draft-IERC6093.sol":  "0x1b88b3fb3d85ba5496d7d5f396f83ee1fddcdd6762059ff65992655b67920998",
+                                  "lib/openzeppelin-contracts/contracts/token/ERC20/ERC20.sol":  "0x669464167428061ee0f8618b73b3ee90aff8405683e7ddde8cd77dadaa1afe29",
+                                  "lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol":  "0x74ed01eb66b923d0d0cfe3be84604ac04b76482a55f9dd655e1ef4d367f95bc2",
+                                  "lib/openzeppelin-contracts/contracts/token/ERC20/extensions/ERC20Burnable.sol":  "0xb378169b7c0be0628064429bd7fb41f5d16983ee9af1b3cf82468e79af3fdc30",
+                                  "lib/openzeppelin-contracts/contracts/token/ERC20/extensions/ERC20Pausable.sol":  "0x756aee61d83960d324973de3a64920a02b480efe662b611fb05ea506d844aa55",
+                                  "lib/openzeppelin-contracts/contracts/token/ERC20/extensions/IERC20Metadata.sol":  "0xd6fa4088198f04eef10c5bce8a2f4d60554b7ec4b987f684393c01bf79b94d9f",
+                                  "lib/openzeppelin-contracts/contracts/utils/Context.sol":  "0x493033a8d1b176a037b2cc6a04dad01a5c157722049bbecf632ca876224dd4b2",
+                                  "lib/openzeppelin-contracts/contracts/utils/Pausable.sol":  "0xdb484371dfbb848cb6f5d70464e9ac9b2900e4164ead76bbce4fef0b44bcc68f",
+                                  "src/Solynea.sol":  "0x43f4381705c3170bda11dc83c69acd3f21c0d1080b0981087de3b11d16760000"
+                              },
+    "explorerUrl":  "https://testnet.bscscan.com/address/0x9f3318B0b0A6e228d0B72B27d6a83BE6CeC4b499",
+    "transactionUrl":  "https://testnet.bscscan.com/tx/0x38099399468a8b80b0d4846c00a72279d54d498009ec40351854e5e4bbae0da8",
+    "gasUsed":  787008,
+    "effectiveGasPriceWei":  "100000000",
+    "feeTBNB":  "0.0000787008",
+    "verified":  true
+}
